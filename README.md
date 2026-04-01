@@ -15,7 +15,7 @@
 - JavaScript
 
 ✍️ Random Quote
-<img width="586" height="250" alt="image" src="https://github.com/user-attachments/assets/a142edda-8692-4ab8-a3da-ecef8392caa5" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/a142edda-8692-4ab8-a3da-ecef8392caa5" />
 
   
 ## 📫 Connect with Me
