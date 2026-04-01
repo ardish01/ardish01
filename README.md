@@ -15,8 +15,8 @@
 - JavaScript
 
 ✍️ Random Quote
-- "Let's Be Realistic - Let's Do The Impossible"
-                                    - Che Guevara
+<img width="586" height="250" alt="image" src="https://github.com/user-attachments/assets/a142edda-8692-4ab8-a3da-ecef8392caa5" />
+
   
 ## 📫 Connect with Me
 - LinkedIn:https://www.linkedin.com/in/aardish-duwal-0371672a2
