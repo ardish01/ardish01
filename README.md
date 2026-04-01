@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Aardish
+
+🎓 BCA Student  
+📊 Aspiring Data Analyst    
+📍 Nepal  
+
+## 🚀 Skills
+- Python
+- Power BI
+- Pandas
+- Data Visualization
+- SQL
+- HTML 5
+- CSS
+- JavaScript
+
+✍️ Random Dev Quote
+- "Believe you can and you're halfway there."
+                                  - theodore roosevelt
+  
+## 📫 Connect with Me
+- LinkedIn:https://www.linkedin.com/in/aardish-duwal-0371672a2
+- Email:aardish01@gmail.com
 
 <!--
 **ardish01/ardish01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
