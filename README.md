@@ -15,6 +15,8 @@
 - JavaScript
 
 ✍️ Random Quote
+
+
 <img width="439" height="125" alt="image" src="https://github.com/user-attachments/assets/327e91d1-c9e1-435a-bce5-6c3740bffe0c" />
 
 
