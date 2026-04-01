@@ -15,8 +15,8 @@
 - JavaScript
 
 ✍️ Random Quote
-- "Believe you can and you're halfway there."
-                                  - theodore roosevelt
+- "Let's Be Realistic - Let's Do The Impossible"
+                                  - Che Guevara
   
 ## 📫 Connect with Me
 - LinkedIn:https://www.linkedin.com/in/aardish-duwal-0371672a2
