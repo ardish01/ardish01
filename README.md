@@ -17,7 +17,8 @@
 ✍️ Random Quote
 
 
-<img width="439" height="125" alt="image" src="https://github.com/user-attachments/assets/327e91d1-c9e1-435a-bce5-6c3740bffe0c" />
+<img width="419" height="163" alt="image" src="https://github.com/user-attachments/assets/ab7e081d-018b-474b-bb07-2e2bb5e4d4fa" />
+
 
 
   
