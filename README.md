@@ -25,7 +25,7 @@
 ## 📫 Connect with Me
 - LinkedIn:https://www.linkedin.com/in/aardish-duwal-0371672a2
 - Email:aardish01@gmail.com
-- Website:aardishduwal.com.np
+- Website:https://www.aardishduwal.com.np/
 
 <!--
 **ardish01/ardish01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
