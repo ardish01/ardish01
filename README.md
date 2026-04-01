@@ -14,7 +14,7 @@
 - CSS
 - JavaScript
 
-✍️ Random Dev Quote
+✍️ Random Quote
 - "Believe you can and you're halfway there."
                                   - theodore roosevelt
   
