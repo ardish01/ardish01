@@ -14,7 +14,7 @@
 - CSS
 - JavaScript
 
-✍️ Random Quote
+✍️ Quote
 
 
 <img width="319" height="103" alt="image" src="https://github.com/user-attachments/assets/ab7e081d-018b-474b-bb07-2e2bb5e4d4fa" />
