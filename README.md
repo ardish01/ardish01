@@ -1,7 +1,8 @@
 # Hi 👋 I'm Aardish
 
 🎓 BCA Student  
-📊 Aspiring Data Analyst    
+📊 Aspiring Data Analyst  
+⚛ Data Science Enthusiast
 📍 Nepal  
 
 ## 🚀 Skills
