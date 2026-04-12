@@ -2,7 +2,7 @@
 
 🎓 BCA Student  
 📊 Aspiring Data Analyst  
-⚛ Data Science Enthusiast
+⚛ Data Science Enthusiast  
 📍 Nepal  
 
 ## 🚀 Skills
